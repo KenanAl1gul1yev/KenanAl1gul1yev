@@ -118,7 +118,7 @@ to reach me **kenanaliguliyev@gmail.com**
   >
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      title="MS-SQL"
+      title="MS-SQL Server"
       alt="mssql"
       width="40"
       height="40"
