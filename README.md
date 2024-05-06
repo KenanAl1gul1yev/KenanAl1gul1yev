@@ -15,10 +15,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Real estate prediction projects**
-- 🌱 I’m currently learning **Deep learning**
-- 💬 Ask me about **Python, ML**
-- 📫 How to reach me **kenanaliguliyev@gmail.com**
+- 🔭 I’m currently working on **Real estate prediction projects** - 🌱 I’m
+currently learning **Deep learning** - 💬 Ask me about **Python, ML** - 📫 How
+to reach me **kenanaliguliyev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -121,6 +120,15 @@
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
       title="MS-SQL"
       alt="mssql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      title="Postman"
       width="40"
       height="40"
     />
