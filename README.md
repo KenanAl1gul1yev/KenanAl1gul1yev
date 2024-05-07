@@ -15,9 +15,10 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Real estate prediction projects** - 🌱 I’m
-currently learning **Deep learning** - 💬 Ask me about **Python, ML** - 📫 How
-to reach me **kenanaliguliyev@gmail.com**
+- 🔭 I’m currently working on **Real estate prediction projects**
+- 🌱 I’m currently learning **Deep learning**
+- 💬 Ask me about **Python, ML**
+- 📫 How to reach me **kenanaliguliyev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
